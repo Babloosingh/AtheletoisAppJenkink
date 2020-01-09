@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="48749" started-at="2020-01-09T15:50:40 IST" finished-at="2020-01-09T15:51:29 IST">
+  <suite name="Default suite" duration-ms="101396" started-at="2020-01-09T17:38:19 IST" finished-at="2020-01-09T17:40:00 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="48749" started-at="2020-01-09T15:50:40 IST" finished-at="2020-01-09T15:51:29 IST">
+    <test name="Default test" duration-ms="101396" started-at="2020-01-09T17:38:19 IST" finished-at="2020-01-09T17:40:00 IST">
       <class name="com.project.test.loginTest">
-        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.project.test.loginTest@5bcea91b]" name="getdriver" is-config="true" duration-ms="42746" started-at="2020-01-09T15:50:40 IST" finished-at="2020-01-09T15:51:23 IST">
+        <test-method status="PASS" signature="getdriver()[pri:0, instance:com.project.test.loginTest@2145b572]" name="getdriver" is-config="true" duration-ms="94928" started-at="2020-01-09T17:38:19 IST" finished-at="2020-01-09T17:39:54 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getdriver -->
-        <test-method status="PASS" signature="goToLoginWithValideUser()[pri:0, instance:com.project.test.loginTest@5bcea91b]" name="goToLoginWithValideUser" duration-ms="4768" started-at="2020-01-09T15:51:23 IST" description="go to login pages" finished-at="2020-01-09T15:51:28 IST">
+        <test-method status="PASS" signature="goToLoginWithValideUser()[pri:0, instance:com.project.test.loginTest@2145b572]" name="goToLoginWithValideUser" duration-ms="4760" started-at="2020-01-09T17:39:54 IST" description="go to login pages" finished-at="2020-01-09T17:39:58 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToLoginWithValideUser -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.test.loginTest@5bcea91b]" name="tearDown" is-config="true" duration-ms="1141" started-at="2020-01-09T15:51:28 IST" finished-at="2020-01-09T15:51:29 IST">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.test.loginTest@2145b572]" name="tearDown" is-config="true" duration-ms="1172" started-at="2020-01-09T17:39:59 IST" finished-at="2020-01-09T17:40:00 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
